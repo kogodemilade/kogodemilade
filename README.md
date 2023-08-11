@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kogodemilade
-- 👀 I’m interested in boxing
-- 🌱 I’m currently learning c/c++
-- 💞️ I’m looking to collaborate on any project that includes python or javascript
-- 📫 How to reach me kogodemilade@gmail.com
+I’m @kogodemilade
+I’m interested in data science, ML and AI
+I’m currently learning java
+I’m looking to collaborate on any project that includes python or java
+How to reach me: damisirekogo@gmail.com
 
 <!---
 kogodemilade/kogodemilade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
