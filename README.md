@@ -1,7 +1,7 @@
-I’m @kogodemilade
-I’m interested in data science, ML and AI
-I’m currently learning java
-I’m looking to collaborate on any project that includes python or java
+I’m @kogodemilade.
+I’m interested in data science, ML and AI.
+I’m currently learning java.
+I’m looking to collaborate on any project that includes python or java.
 How to reach me: damisirekogo@gmail.com
 
 <!---
