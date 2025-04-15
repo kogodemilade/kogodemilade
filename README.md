@@ -1,6 +1,8 @@
 I’m @kogodemilade.
 I’m interested in data science, ML and AI.
 LinkedIn: https://www.linkedin.com/in/oluwademilade-kogo-37aa74272/
+
+
 How to reach me: kogodemilade@gmail.com
 
 Featured repos: 
