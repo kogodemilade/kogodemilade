@@ -5,7 +5,7 @@ I’m interested in robotics, AI, and physics.
 I've worked on projects including autonomous robotics and low-level systems programming.
 
 
-I also love playing the base guitar and learning about history and people's cultures.
+I also love playing the bass and learning about history and people's cultures.
 
 
 My LinkedIn: https://www.linkedin.com/in/oluwademilade-kogo-37aa74272/
