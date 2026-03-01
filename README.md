@@ -2,7 +2,7 @@ I’m @kogodemilade.
 I’m interested in robotics, AI, and physics.
 
 
-I've worked on projects including autonomous robotics and low-level systems programming.
+I've worked on projects including autonomous robotics, controls and low-level systems programming.
 
 
 I also love playing the bass and learning about history and people's cultures.
